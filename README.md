@@ -1,6 +1,6 @@
 # Elysio Pires
 
-**AI & software architect · Hands-on engineer · Vancouver, Canada**
+**AI & software architect · Hands-on engineer · Kelowna, BC, Canada**
 
 I turn complex product ideas into practical systems, from early discovery and prototypes through architecture, security review, and production delivery. My 18+ years in software span retail innovation, healthcare AI, mobile products, and game operations.
 
